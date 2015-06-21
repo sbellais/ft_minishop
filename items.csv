@@ -1,0 +1,32 @@
+-1;name;description;price;categorie;promo;stock;img;event
+0;Sacaille;"Vous voulez de l'armure ? Vous voulez moins de vetements ?
+Le ""Sa caille"" est fait pour vous !";189.85;armure|costume;50;-1;sacaille.png;1
+1;Poulet;"Vous etes deja un pigeon ? Pourquoi pas votre monture aussi !
+Profitez des a present de la monture Poulet !";280.05;monture|housing;60;-1;poulet.png;1
+2;Soin;"Vous voulez vous soigner ? Nous vous offrons les soldes sur les potions
+de soins ! Les potions de soins qui tuent ! Au sens propre.";401.89;power|stat;70;-1;soin.png;1
+3;Dragn;Cette armure faite de pure charbon vous maintiendras au chaud ! Les coups par contre..;153.74;armure|costume;100;-1;dragn.png;0
+4;AnimalA;Cette armure faites de plusieurs ossements et tetes d'animaux fera envier les plus grandes Cruella de l'histoire !;221.3;armure|costume;100;-1;animala.png;0
+5;ArtisP;Cette armure legere vous permettra de creer d'autres objets inutiles emcore moins vite !;118.74;armure|costume;100;-1;artisp.png;0
+6;Grispoil;Cette armure de gris et bien devetue vous permettra quand meme de garder au chaud les endroits importants !;235.68;armure|costume;100;-1;grispoil.png;0
+7;FrimePro;Cette armure vous donnant l'air d'un beau gosse n'est en fait qu'une illusion.;98.14;armure|costume;100;-1;frimepro.png;0
+8;Kabuto;Si les os du Chafer Ronin sont noircis. c'est a cause de centaines d'annees de vagabondage sans maitre. uniquement guides par de sombres desseins. Si vous l'etes. c'est uniquement parce que vous ne vous etes pas lave depuis des lustres.;253.71;casque|costume;100;-1;kabuto.png;0
+9;Chapibou;Selon la legende. ce chapeau est la protection ultime contre les insolations. mais il ne semble fonctionner que la nuit. La journee. il devient subitement transparent pour une raison encore mysterieuse.;203.51;casque|costume;100;-1;chapibou.png;0
+10;Dorabysse;En dehors de Sufokia. le port de ce chapeau risque de vous donner un air un peu trop ahuri et vous aurez beaucoup de mal a etre pris au serieux. Sous l'eau en revanche. il vous donne un air de predateur. Mais ne vous meprenez pas : ce n'est qu'une question de perception.;152.62;casque|costume;100;-1;dorabysse.png;0
+11;Eyesm;Ce masque vous permettra d'y voir clair dans les zones les plus obscures. et vous procurera tout l'oxygene dont vous aurez besoin en cas de plongee sous-marine.;102.36;casque|costume;100;-1;eyesm.png;0
+12;Ranshi;Cette coiffe est vendue a d'innocents voyageurs par une organisation criminelle. qui leur fait croire qu'elle est obligatoire pour avoir un droit de passage vers l'ile de Frigost. Ils se sont dit que c'etait moins dangereux que d'y exercer leur activite habituelle. le racket en echange de protection.;98.5;casque|costume;100;-1;ranshi.png;0
+13;Nidas;Pour porter ces tongues. une hygiene des pieds irreprochable est de mise. Sinon. elles sauront vous le faire regretter.;147.5;botte|costume;100;-1;nidas.png;0
+14;Kamasterisk;Quoi de mieux pour passer inapercu que des bottes en or massif ?;256.32;botte|costume;100;-1;kamasterisk.png;0
+15;Nocturlabe;Les pics de Nocturlabe etant des paratonnerres. ces bottes sont ideales pour donner des coups de pied et recevoir des coups de foudre.;356.87;botte|costume;100;-1;nocturlabe.png;0
+16;Vortex;Ces petits sabots permettent un atterrissage tout en douceur pour les sauts de plus de 20 kametres. Essayez par vous-meme.;105.89;botte|costume;100;-1;vortex.png;0
+17;Levitrof;Comme leur nom l'indique. les Levitrofs levitent. Ce qui rend ces bottes particulierement inutiles.;25.65;botte|costume;100;-1;levitrof.png;0
+18;Marcassin;Ce petit cochon sauvage dispose d'un groin d'une taille demesuree. adapte a la recherche active des gros glands. Par chance. il semble vous avoir trouve assez facilement. Ce devoreur d'ames se nourrit des restes de Porkass. cochons. et sangliers. Les regions des porcos. porkass et sangliers des plaines sont sa zone de predilection.;920.45;familier|powerup;100;-1;marcassin.png;0
+19;Kanigloups;Craint des autres familiers a cause de sa dentition a faire palir un vampire. il a passa son enfance a l'ecart des autres et sa sociabilite en a pris un coup. jusqu'a ce que vous l'adoptiez. Ce familier devoreur d'ames ne se nourrit que des ames des creatures de la foret des pins perdus. L'ile de Frigost est sa zone de predilection.;812.87;familier|powerup;100;-1;kanigloups.png;0
+20;Bulbisou;Une fois adulte. ce familier donnera un superbe charme frigostien qui. a l'instar de son cousin d'Amakna. adore les calins. En attendant. il vous fera plein de bisous pour vous temoigner son affection. Ce familier devoreur d'ames ne se nourrit que des ames des creatures de la foret petrifiee. L'ile de Frigost est sa zone de predilection.;782.56;familier|powerup;100;-1;bulbisou.png;0
+21;Amande;Une dinde au gout amande parfaite pour noel !;450.86;monture|housing;100;-1;amande.png;0
+22;Rousse;Une dinde au bon gout de rousse !;999.99;monture|housing;100;-1;rousse.png;0
+23;Lit;What else ?;1;meuble|housing;100;-1;lit.png;0
+24;Megasoin;Pas assez de morts avec le soin ? Vous en aurez deux fois plus avec celles-ci !;802.3;stat|powerup;100;-1;megasoin.png;0
+25;Force;Avec cette potion magique du druide Panoramyde vous perdrez en force a coup sur !;705.65;stat|powerup;100;-1;force.png;0
+26;Experience;De l'experience ? Sa sert a quelque chose ?;457.56;stat|powerup|experience;100;-1;gold.png;0
+27;Gold;Plus d'or ? Mais non moins d'or !;503.5;stat|powerup|gold;100;-1;experience.png;0
